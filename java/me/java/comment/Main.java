@@ -3,12 +3,13 @@ package me.java.comment; // 패키지 (클래스 집합, 이름은 소문자로 
 public class Main { // 클래스 (이름은 대문자로 작성, Upper Camel Case
     public static void main(String[] args) { // 메인 함수 (프로그램 실행시 자동으로 호출되어
         /*
-         * this is javadec comment
+         * this is javadoc comment
          * it will be included at  .class file (after compile)
          * */
 
         // 주석 (프로그램 코드에 영향을 주지 않고 코드의 설명이나 협업을 위해 사용)
         // ex) 코드 설명, 개발자 이름 수정일
+
 
         // 단일행 주석
         /* 다중행 주석
