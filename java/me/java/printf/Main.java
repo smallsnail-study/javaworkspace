@@ -10,6 +10,9 @@ public class Main {
         boolean b = true;
 
         // int
+        System.out.printf("%d\n" , i);
+        System.out.printf("%10d\n" , i); // 오른쪽으로 정렬
+        System.out.printf("%-10d\n" , i); // 왼쪽으로 정렬
 
     }
 }
